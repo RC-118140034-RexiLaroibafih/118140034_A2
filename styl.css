@@ -1,0 +1,28 @@
+body{
+    height: 85vh;
+    padding: 0px;
+    margin: 0px;
+    
+}
+header{
+    width: 784px;
+    height: 200px;
+    background-color: rgb(206, 191, 174);
+}
+aside{
+    width: 200px;
+    background-color: yellow;
+    float: left;
+   height:80%;
+}
+.content{
+    background-color: rgb(230, 170, 212);
+    width: 784px;
+    height: auto;
+    height:80%;
+}
+footer{
+    background-color: rgb(160, 87, 170);
+    height: 100px;
+    width: 784PX;
+}
