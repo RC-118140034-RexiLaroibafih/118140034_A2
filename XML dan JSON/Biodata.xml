@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Biodata>
+    <Nama>
+        <NamaDepan>Rexi</NamaDepan>
+        <NamaBelakang>Laroibafih></NamaBelakang>
+    </Nama>
+
+    <NIM>118140034</NIM>
+    
+    <JenisKelamin>Laki-laki</JenisKelamin>
+
+    <Usia>20</Usia>
+
+    <Saudara>Dua</Saudara>
+
+    <Hobby>Cewek</Hobby>
+
+    <Alamat>
+        <Desa>Desa Umbul Natim</Desa>
+        <Kecamatan>Jati Agung</Kecamatan>
+        <Kabupaten>Lampung Selatan</Kabupaten>
+    </Alamat>
+
+    <SocialMedia>
+        <Facebook>rexilaroibafih</Facebook>
+        <Instagram>rexilaroibafih</Instagram>
+    </SocialMedia>
+</Biodata>
